@@ -6,7 +6,7 @@
 
 ## Front-End
 
-![Screenshot 2021-06-22 at 12 44 40 AM](https://user-images.githubusercontent.com/26367904/122864709-bf8e2c00-d342-11eb-814e-5bfa7e1b5dd1.png)
+![Screenshot 2021-06-22 at 12 44 40 AM]([https://user-images.githubusercontent.com/26367904/122864709-bf8e2c00-d342-11eb-814e-5bfa7e1b5dd1.png](https://github.com/Shubhu0/Spotify-Clone/blob/main/Spotify%20Home.png))
 
 
 # Getting Started with Create React App
