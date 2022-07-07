@@ -1,8 +1,10 @@
 
 ## Description
-A spam detection system built on AWS cloud, that upon receipt of an email message, automatically flags it as spam or not. This is based on the prediction obtained from the machine learning model created using Amazon SageMaker. The definition and provision of the resources on AWS cloud is done through the AWS Cloudformation template. This template can also be used with AWS code pipeline to automate the resource stack formation.
+•	Developed a fully functional Spotify Clone using the Spotify API and Context API
+•	Used the Spotify API to create a clone with ReactJS and styled components, and employed Context API and useReducer Hook for the state management
+•	Implemented functionalities for user login, to search for any playlist, skips tracks, search and play playlists, and more 
 
-## System Architecture
+## Front-End
 
 ![Screenshot 2021-06-22 at 12 44 40 AM](https://user-images.githubusercontent.com/26367904/122864709-bf8e2c00-d342-11eb-814e-5bfa7e1b5dd1.png)
 
